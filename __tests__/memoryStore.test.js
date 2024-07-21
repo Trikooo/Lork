@@ -1,4 +1,4 @@
-const MemoryStore = require('../lib/sessionStore/memoryStore.js'); // Adjust the path as needed
+const MemoryStore = require('../lib/sessionStore/memoryStore.js');
 
 describe('MemoryStore', () => {
   let store;
